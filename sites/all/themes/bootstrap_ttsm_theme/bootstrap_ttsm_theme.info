@@ -1,4 +1,4 @@
-name = TTSM Bootstrap theme
+name = bootstrap_ttsm_theme
 description = A Bootstrap Sub-theme for ttsm.
 core = 7.x
 base theme = bootstrap
